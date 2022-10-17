@@ -1,0 +1,14 @@
+{
+    "name": "admin/projetocomposer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Geovanna Barretto"
+        }
+    ],
+    "require": {}
+}
